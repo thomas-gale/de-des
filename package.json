@@ -22,7 +22,7 @@
     "debounce": "^1.2.1",
     "next": "^13.0.1",
     "occt-import-js": "git+https://github.com/thomas-gale/occt-import-js.git",
-    "react": "^18.2.0",
+    "react": "^19.0.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.6.0",
     "react-redux": "^8.0.5",

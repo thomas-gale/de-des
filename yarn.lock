@@ -1136,9 +1136,9 @@
     "@types/node" "*"
 
 "@types/debounce@^1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@types/debounce/-/debounce-1.2.1.tgz#79b65710bc8b6d44094d286aecf38e44f9627852"
-  integrity sha512-epMsEE85fi4lfmJUH/89/iV/LI+F5CvNIvmgs5g5jYFPfhO2S/ae8WSsLOKWdwtoaZw9Q2IhJ4tQ5tFCcS/4HA==
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/@types/debounce/-/debounce-1.2.4.tgz#cb7e85d9ad5ababfac2f27183e8ac8b576b2abb3"
+  integrity sha512-jBqiORIzKDOToaF63Fm//haOCHuwQuLa2202RK4MozpA6lh93eCBc+/8+wZn5OzjJt3ySdc+74SXWXB55Ewtyw==
 
 "@types/form-data@0.0.33":
   version "0.0.33"
